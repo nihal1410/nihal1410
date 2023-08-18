@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi 👋! My name is Nihal. <br>I'm a passionate tech enthusiast. <br>I'm on a journey of constant growth, embracing the world of coding and financial intricacies. <br>As an eager apprentice, I'm dedicated to honing my skills and uncovering opportunities one step at a time. 🌱🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/_.nihal_mahansaria._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihal-mahansaria-262b97162/) 
